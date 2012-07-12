@@ -32,7 +32,7 @@ Installation
 
 Disclaimer
 ----------
-_Your Gmail password is stored as plain text in this script._ Anyone can view this if they view the source code. Use at your own risk.
+**Your Gmail password is stored as plain text in this script.** Anyone can view this if they view the source code. Use at your own risk.
 
 Note that this script is only compatible with computers running a Windows operating system, and has only been tested on Windows 7.
 
