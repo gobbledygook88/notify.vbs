@@ -11,7 +11,7 @@ Dim   textBody, messTitle, messBody
       textBody  = "YO! Waddup!" & Vbcrlf & "Your computer at work here. Some alien with unhygenic fingers is tippy-tapping on me." & Vbcrlf & "Sort it out."
 
       messTitle = "Warning: You can't handle the truth!"
-      messBody  = "You are using " & name & "'s computer." & Vbcrlf & "A log will be made of your activity and sent to " & name & "'s email."
+      messBody  = "You are using " & name & "'s computer." & Vbcrlf & "A log of your activity will be made and sent to " & name & "'s email."
 
 '==== END OF CONFIGURATION ==================================================================================
 
